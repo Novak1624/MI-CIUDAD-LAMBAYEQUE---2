@@ -1,0 +1,14 @@
+body{
+    background-color:rgba(42, 61, 165, 0.268);
+}
+
+h1{
+    color:rgb(27, 26, 26);
+}
+header{
+    color: rgb(87, 147, 44);
+    text-align: center;
+    display: -ms-flexbox;
+    justify-content:last baseline;
+    align-items:flex-end;
+}

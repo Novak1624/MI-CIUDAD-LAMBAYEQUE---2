@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(149, 42, 165);
+}
+
+h1{
+    color:rgb(255, 170, 127);
+}
+header{
+    color: rgb(250, 236, 215);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
